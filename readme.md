@@ -13,7 +13,7 @@ For more information about this API, please visit
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'zoom-ruby', git: 'https://github.com/nischay-dhiman/zoom-ruby', branch: 'master'
+gem 'zoom-ruby', git: 'https://github.com/bvnguyeen/zoom-ruby', branch: 'master'
 ```
 
 And then execute:
